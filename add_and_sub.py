@@ -1,12 +1,13 @@
-a = int (input ("Please enter A number ="))
-b = int (input ("PLease enter B number ="))
+a = int (input ("Please enter A number = "))
+b = int (input ("Please enter B number = "))
 
-print (str("A vaule") (a))
-print (str("B vaule") (b))
+print ("A amount", str(a))
+print ("B amount", str(b))
 
 c = a + b
 
 d = a - b
 
-print (str("add output") (c))
-print (str("add output") (d))
+print ()
+print ("add output", str (c))
+print ("sub output", str (d))
